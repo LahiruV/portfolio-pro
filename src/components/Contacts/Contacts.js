@@ -360,7 +360,7 @@ function Contacts() {
                                     rel='noreferrer'
                                     className={classes.socialIcon}
                                 >
-                                    <FaLinkedinIn aria-label='Instagram' />
+                                    <FaInstagram aria-label='Instagram' />
                                 </a>
                             )}
                             {/* {socialsData.instagram && (
