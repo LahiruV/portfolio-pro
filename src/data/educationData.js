@@ -3,8 +3,8 @@ export const educationData = [
         id: 1,
         institution: 'Sri Lanka Institute of Information Technology',
         course: 'Bachelor of Science (Hons) in Information Technology, Specializing in Software Engineering',
-        startYear: 'February 2020',
-        endYear: 'November 2023'
+        startYear: 'November 2019',
+        endYear: 'December 2023'
     },
     {
         id: 2,
