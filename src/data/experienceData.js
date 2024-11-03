@@ -16,7 +16,7 @@ export const experienceData = [
     {
         id: 3,
         company: 'John Keells Holdings PLC',
-        jobtitle: 'Junior Software Engineer',
+        jobtitle: 'Intern Software Engineer',
         startYear: '2022 March',
         endYear: '2023 March'
     },
